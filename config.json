@@ -1,0 +1,12 @@
+{
+	"nodePort":"",
+	"dbName":"",
+	"mongoHost":"",
+	"mongoPort":"",
+	"mongoUserName":"",
+	"mongoPassword":"",
+	"mongoAuthMechanism":"",
+	"mongoAuthSource":"",
+	"collectionName":"",
+	"filePath":""
+}
